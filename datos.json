@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapato Deportivo",
+        "precio": 1200,
+        "tipo": "Deportivo",
+        "descripcion": "Zapatos cómodos para actividades físicas y deportivas"
+    },
+    {
+        "id": 2,
+        "nombre": "Zapato Formal",
+        "precio": 500,
+        "tipo": "Formal",
+        "descripcion": "Elegantes y perfectos para eventos formales o trabajo"
+    },
+    {
+        "id": 3,
+        "nombre": "Sandalias Playeras",
+        "precio": 1400,
+        "tipo": "Casual",
+        "descripcion": "Ideales para días calurosos y paseos por la playa"
+    },
+    {
+        "id": 4,
+        "nombre": "Botas de Montaña",
+        "precio": 800,
+        "tipo": "Outdoor",
+        "descripcion": "Diseñadas para caminatas largas y terrenos irregulares"
+    }
+]
